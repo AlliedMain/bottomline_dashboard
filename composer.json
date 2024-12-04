@@ -1,0 +1,12 @@
+{
+    "require": {
+        "kreait/firebase-php": "^5.26",
+        "google/cloud-firestore": "^1.41",
+        "mailgun/mailgun-php": "^4.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
